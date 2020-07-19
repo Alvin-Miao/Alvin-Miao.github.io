@@ -1,8 +1,8 @@
 <head>
-        <link rel="stylesheet" type="text/css" href="./Alvin_CSS.css"/>
+    <link rel="stylesheet" type="text/css" href="./Alvin_CSS.css"/>
 </head>
 
 <body>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="Template.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="Template.js"></script>
 </body>
