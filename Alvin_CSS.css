@@ -1,0 +1,56 @@
+a:link{color:blueviolet}
+a:visited{color:darkcyan}
+a:hover{color:crimson}
+
+body {padding-left:5%}
+body {padding-right:5%}
+
+.title {
+    margin:auto;
+    padding:2em;
+    background:linear-gradient(-30deg,skyblue,lightblue,white,lightgreen,green);
+    border:3px solid black;
+    border-radius:20px;
+}
+
+.card {
+    margin:auto;
+    padding:2em;
+    border:3px solid black;
+    border-radius:20px;
+    max-width:100em;
+    background:linear-gradient(90deg,pink,white,pink)
+}
+
+.resources_selector {
+    margin:auto;
+    border:3px solid black;
+    border-radius:20px;
+    background:linear-gradient(45deg,purple,skyblue,lightblue,white,skyblue,skyblue,purple)
+}
+
+.navigation_bar {
+    margin:auto;
+    border:3px solid black;
+    border-radius:20px;
+    position:fixed;
+    top:25%;
+    left:-11em;
+    height:45%;
+    width:10em;
+    background:linear-gradient(goldenrod,white,goldenrod);
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:5%;
+}
+
+.navigation_bar:hover {
+    left:0;
+}
+
+.footer {
+    padding:2em;
+    border:3px solid black;
+    border-radius:20px;
+    background:linear-gradient(-30deg,skyblue,lightblue,white,lightgreen,green);
+}
