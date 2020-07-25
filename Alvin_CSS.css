@@ -34,14 +34,10 @@ body {padding-right:5%}
     border:3px solid black;
     border-radius:20px;
     position:fixed;
-    top:25%;
     left:-11em;
-    height:45%;
     width:10em;
     background:linear-gradient(goldenrod,white,goldenrod);
-    padding-left:1%;
-    padding-right:1%;
-    padding-top:5%;
+    padding:1%;
 }
 
 .navigation_bar:hover {
