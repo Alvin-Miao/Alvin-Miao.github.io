@@ -38,6 +38,7 @@ body {padding-right:5%}
     width:10em;
     background:linear-gradient(goldenrod,white,goldenrod);
     padding:1%;
+    height:100%
 }
 
 .navigation_bar:hover {
