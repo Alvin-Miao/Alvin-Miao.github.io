@@ -26,7 +26,7 @@
 // Add a navigation bar
     // Navigation Bar
     $("body").prepend(`
-        <div align="center" style=font-size:25px class="navigation_bar">
+        <div align="center" style=font-size:2em class="navigation_bar">
             Navigation Bar
             <hr>
             <a href="Alvin_1.html">Self Introduction</a>
