@@ -15,7 +15,7 @@
     // Contect Information
     $("body").append(`
         <br>
-        <div class="footer" align="left">
+        <div class="footer">
             <b>Alvin Miao</b>
             <br>
             <b>Email: </b>alvin.miao@prismsus.org
@@ -26,24 +26,19 @@
 // Add a navigation bar
     // Navigation Bar
     $("body").prepend(`
-        <div align="center" style=font-size:2em class="navigation_bar">
+        <div align="center" style=font-size:25px class="navigation_bar">
             Navigation Bar
             <hr>
             <a href="Alvin_1.html">Self Introduction</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_2.html">Alvin in Daily Life</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_3.html">My Resume</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_4.html">Contact Me</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_5.html">Addtional Resources</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin.html">Back to Home Page</a>
         </div>
     `)
