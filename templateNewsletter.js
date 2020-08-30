@@ -34,20 +34,15 @@
             Navigation Bar
             <hr>
             <a href="Alvin_1.html">Self Introduction</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_2.html">Alvin in Daily Life</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_3.html">My Resume</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_4.html">Contact Me</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin_5.html">Addtional Resources</a>
-            <br>
-            <br>
+             | 
             <a href="Alvin.html">Back to Home Page</a>
         </div>
     `)
